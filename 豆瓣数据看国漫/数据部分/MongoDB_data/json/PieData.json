@@ -1,0 +1,306 @@
+{
+    "RECORDS": [
+        {
+            "_id": {
+                "$oid": "5f223cc82092901130aac242"
+            },
+            "num": [
+                {
+                    "$numberInt": "83"
+                },
+                {
+                    "$numberInt": "22"
+                },
+                {
+                    "$numberInt": "7"
+                },
+                {
+                    "$numberInt": "5"
+                },
+                {
+                    "$numberInt": "2"
+                },
+                {
+                    "$numberInt": "1"
+                },
+                {
+                    "$numberInt": "8"
+                },
+                {
+                    "$numberInt": "1"
+                },
+                {
+                    "$numberInt": "2"
+                }
+            ],
+            "type": [
+                "短片",
+                "儿童",
+                "剧情",
+                "奇幻",
+                "爱情",
+                "历史",
+                "喜剧",
+                "古装",
+                "纪录片"
+            ],
+            "year": "1978"
+        },
+        {
+            "_id": {
+                "$oid": "5f223cc82092901130aac243"
+            },
+            "num": [
+                {
+                    "$numberInt": "181"
+                },
+                {
+                    "$numberInt": "79"
+                },
+                {
+                    "$numberInt": "34"
+                },
+                {
+                    "$numberInt": "13"
+                },
+                {
+                    "$numberInt": "15"
+                },
+                {
+                    "$numberInt": "35"
+                },
+                {
+                    "$numberInt": "3"
+                },
+                {
+                    "$numberInt": "22"
+                },
+                {
+                    "$numberInt": "30"
+                },
+                {
+                    "$numberInt": "7"
+                },
+                {
+                    "$numberInt": "6"
+                },
+                {
+                    "$numberInt": "7"
+                },
+                {
+                    "$numberInt": "2"
+                },
+                {
+                    "$numberInt": "2"
+                },
+                {
+                    "$numberInt": "3"
+                },
+                {
+                    "$numberInt": "1"
+                },
+                {
+                    "$numberInt": "2"
+                },
+                {
+                    "$numberInt": "3"
+                },
+                {
+                    "$numberInt": "2"
+                },
+                {
+                    "$numberInt": "1"
+                },
+                {
+                    "$numberInt": "1"
+                },
+                {
+                    "$numberInt": "1"
+                },
+                {
+                    "$numberInt": "1"
+                },
+                {
+                    "$numberInt": "1"
+                },
+                {
+                    "$numberInt": "1"
+                },
+                {
+                    "$numberInt": "1"
+                }
+            ],
+            "type": [
+                "短片",
+                "儿童",
+                "奇幻",
+                "古装",
+                "科幻",
+                "剧情",
+                "战争",
+                "冒险",
+                "喜剧",
+                "家庭",
+                "历史",
+                "动作",
+                "戏曲",
+                "真人秀",
+                "爱情",
+                "歌舞",
+                "悬疑",
+                "传记",
+                "武侠",
+                "犯罪",
+                "脱口秀",
+                "音乐",
+                "灾难",
+                "惊悚",
+                "恐怖",
+                "运动"
+            ],
+            "year": "2003"
+        },
+        {
+            "_id": {
+                "$oid": "5f223cc82092901130aac244"
+            },
+            "num": [
+                {
+                    "$numberInt": "217"
+                },
+                {
+                    "$numberInt": "11"
+                },
+                {
+                    "$numberInt": "1697"
+                },
+                {
+                    "$numberInt": "441"
+                },
+                {
+                    "$numberInt": "95"
+                },
+                {
+                    "$numberInt": "537"
+                },
+                {
+                    "$numberInt": "549"
+                },
+                {
+                    "$numberInt": "9"
+                },
+                {
+                    "$numberInt": "664"
+                },
+                {
+                    "$numberInt": "837"
+                },
+                {
+                    "$numberInt": "152"
+                },
+                {
+                    "$numberInt": "272"
+                },
+                {
+                    "$numberInt": "75"
+                },
+                {
+                    "$numberInt": "14"
+                },
+                {
+                    "$numberInt": "25"
+                },
+                {
+                    "$numberInt": "65"
+                },
+                {
+                    "$numberInt": "79"
+                },
+                {
+                    "$numberInt": "63"
+                },
+                {
+                    "$numberInt": "60"
+                },
+                {
+                    "$numberInt": "12"
+                },
+                {
+                    "$numberInt": "32"
+                },
+                {
+                    "$numberInt": "5"
+                },
+                {
+                    "$numberInt": "30"
+                },
+                {
+                    "$numberInt": "27"
+                },
+                {
+                    "$numberInt": "70"
+                },
+                {
+                    "$numberInt": "17"
+                },
+                {
+                    "$numberInt": "8"
+                },
+                {
+                    "$numberInt": "11"
+                },
+                {
+                    "$numberInt": "4"
+                },
+                {
+                    "$numberInt": "16"
+                },
+                {
+                    "$numberInt": "4"
+                },
+                {
+                    "$numberInt": "3"
+                },
+                {
+                    "$numberInt": "3"
+                }
+            ],
+            "type": [
+                "动作",
+                "恐怖",
+                "短片",
+                "剧情",
+                "爱情",
+                "奇幻",
+                "冒险",
+                "黑色电影",
+                "喜剧",
+                "儿童",
+                "家庭",
+                "科幻",
+                "战争",
+                "犯罪",
+                "纪录片",
+                "历史",
+                "古装",
+                "武侠",
+                "悬疑",
+                "灾难",
+                "惊悚",
+                "鬼怪",
+                "运动",
+                "歌舞",
+                "音乐",
+                "传记",
+                "同性",
+                "脱口秀",
+                "真人秀",
+                "戏曲",
+                "情色",
+                "西部",
+                "動畫 Animation"
+            ],
+            "year": "2020"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+* {
+
+
+
+}
+body{
+    background:url(../images/008.png) no-repeat top center;
+
+
+
+}
+h1{
+    background:url(../images/003.png)center;
+    background-size:200% 200%;
+    line-height: 3rem;
+    color: #ffffff;
+    border:2px solid #a1a1a1;
+    padding:10px 40px;
+    border-radius:25px;
+}
+.pl1{
+    background: url(../images/Wallpaper.png);
+
+}
+.pl2{
+    background: url(../images/002.jpg);
+}
+.pl3{
+    background: url(../images/002.jpg);
+
+}
+.pl4{
+    background: url(../images/002.jpg);
+}
+.pl5{
+    background: url(../images/002.jpg);
+}
+.pl6{
+    background: url(../images/002.jpg);
+}
+.pl7{
+    background: url(../images/002.jpg);
+}
+.pl8{
+    background: url(../images/002.jpg);
+}
+
+
+
+h2{
+    background:url(../images/003.png)center;
+    background-size:200% 200%;
+    color: #ffffff;
+    border:2px solid #a1a1a1;
+    padding:10px 40px;
+    border-radius:25px;
+
+}
+
+h3{
+    background:blue;
+    background-size: auto;
+    line-height: 3rem;
+    color: black;
+    border:2px solid #a1a1a1;
+    padding:10px 40px;
+    border-radius:25px;
+}
+h5{
+    color: #ffffff;
+}
+.aa{
+    background: #ffffff;
+    line-height: 3rem;
+    color: black;
+    background-color:rgba(255, 255, 255, 0.2);;
+}
+.bb{
+    background: #ffffff;
+    line-height: 3rem;
+    color: black;
+    background-color:rgba(255, 255, 255, 0.2);;
+
+}
+.cc{
+    background: #ffffff;
+    line-height: 3rem;
+    color: black;
+    background-color:rgba(255, 255, 255, 0.2);
+
+}
+.dd{
+    background: #ffffff;
+    line-height: 3rem;
+    color: black;
+    background-color:rgba(255, 255, 255, 0.2);
+
+}
+.ee{
+    background: #ffffff;
+    line-height: 3rem;
+    color: black;
+    background-color:rgba(255, 255, 255, 0.2);
+
+}
+.ff{
+    background: #ffffff;
+    line-height: 3rem;
+    color: black;
+    background-color:rgba(255, 255, 255, 0.2);
+
+}
+.gg{
+    background: #ffffff;
+    line-height: 3rem;
+    color: black;
+    background-color:rgba(255, 255, 255, 0.2);
+
+}
+.pie3{
+    display: flex;
+}
+.pie3 .type1{
+    flex:3;
+}
+.pie3 .type2 {
+    flex: 3;
+}
+.pie3 .type3 {
+    flex: 3;
+}
+

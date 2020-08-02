@@ -1,0 +1,3241 @@
+{
+    "RECORDS": [
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077413"
+            },
+            "all_len": 5,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 5,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "3"
+            },
+            "year": "1923"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077414"
+            },
+            "all_len": 5,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 5,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "1"
+            },
+            "year": "1924"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077415"
+            },
+            "all_len": 1,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 1,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "15"
+            },
+            "year": "1925"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077416"
+            },
+            "all_len": 5,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 5,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "1"
+            },
+            "year": "1926"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077417"
+            },
+            "all_len": 5,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 5,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "3"
+            },
+            "year": "1927"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077418"
+            },
+            "all_len": 10,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 10,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "4"
+            },
+            "year": "1930"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077419"
+            },
+            "all_len": 5,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 5,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "1"
+            },
+            "year": "1931"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007741a"
+            },
+            "all_len": 5,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 5,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "9"
+            },
+            "year": "1933"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007741b"
+            },
+            "all_len": 12,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "44"
+            },
+            "length0": 0,
+            "length1": 12,
+            "rank1": {
+                "$numberInt": "0"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "1"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "78"
+            },
+            "year": "1934"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007741c"
+            },
+            "all_len": 5,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 5,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "6"
+            },
+            "year": "1935"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007741d"
+            },
+            "all_len": 5,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 5,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "1"
+            },
+            "year": "1936"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007741e"
+            },
+            "all_len": 10,
+            "all_num": {
+                "$numberInt": "2"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 10,
+            "rank1": {
+                "$numberInt": "2"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "2"
+            },
+            "view_num": {
+                "$numberInt": "37"
+            },
+            "year": "1938"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007741f"
+            },
+            "all_len": 72,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "3998"
+            },
+            "length0": 0,
+            "length1": 72,
+            "rank1": {
+                "$numberInt": "0"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "1"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "7430"
+            },
+            "year": "1941"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077420"
+            },
+            "all_len": 8,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 8,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "4"
+            },
+            "year": "1943"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077421"
+            },
+            "all_len": 5,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 5,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "1"
+            },
+            "year": "1946"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077422"
+            },
+            "all_len": 5,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 5,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "30"
+            },
+            "year": "1947"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077423"
+            },
+            "all_len": 12,
+            "all_num": {
+                "$numberInt": "2"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 12,
+            "rank1": {
+                "$numberInt": "2"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "2"
+            },
+            "view_num": {
+                "$numberInt": "59"
+            },
+            "year": "1948"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077424"
+            },
+            "all_len": 14,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "432"
+            },
+            "length0": 0,
+            "length1": 14,
+            "rank1": {
+                "$numberInt": "0"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "1"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "639"
+            },
+            "year": "1950"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077425"
+            },
+            "all_len": 20,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 20,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "23"
+            },
+            "year": "1951"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077426"
+            },
+            "all_len": 14,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "2997"
+            },
+            "length0": 0,
+            "length1": 14,
+            "rank1": {
+                "$numberInt": "0"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "1"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "7957"
+            },
+            "year": "1952"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077427"
+            },
+            "all_len": 15,
+            "all_num": {
+                "$numberInt": "2"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 15,
+            "rank1": {
+                "$numberInt": "2"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "2"
+            },
+            "view_num": {
+                "$numberInt": "63"
+            },
+            "year": "1953"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077428"
+            },
+            "all_len": 61,
+            "all_num": {
+                "$numberInt": "3"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "2203"
+            },
+            "length0": 0,
+            "length1": 61,
+            "rank1": {
+                "$numberInt": "0"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "3"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "3"
+            },
+            "view_num": {
+                "$numberInt": "3296"
+            },
+            "year": "1954"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077429"
+            },
+            "all_len": 85,
+            "all_num": {
+                "$numberInt": "7"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "83349"
+            },
+            "length0": 0,
+            "length1": 85,
+            "rank1": {
+                "$numberInt": "3"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "2"
+            },
+            "rank4": {
+                "$numberInt": "2"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "7"
+            },
+            "view_num": {
+                "$numberInt": "148732"
+            },
+            "year": "1955"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007742a"
+            },
+            "all_len": 116,
+            "all_num": {
+                "$numberInt": "7"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "17305"
+            },
+            "length0": 0,
+            "length1": 116,
+            "rank1": {
+                "$numberInt": "2"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "3"
+            },
+            "rank4": {
+                "$numberInt": "2"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "7"
+            },
+            "view_num": {
+                "$numberInt": "31064"
+            },
+            "year": "1956"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007742b"
+            },
+            "all_len": 36,
+            "all_num": {
+                "$numberInt": "4"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "8207"
+            },
+            "length0": 0,
+            "length1": 36,
+            "rank1": {
+                "$numberInt": "0"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "4"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "4"
+            },
+            "view_num": {
+                "$numberInt": "17343"
+            },
+            "year": "1957"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007742c"
+            },
+            "all_len": 404,
+            "all_num": {
+                "$numberInt": "26"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "43141"
+            },
+            "length0": 0,
+            "length1": 404,
+            "rank1": {
+                "$numberInt": "10"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "10"
+            },
+            "rank4": {
+                "$numberInt": "6"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "26"
+            },
+            "view_num": {
+                "$numberInt": "86135"
+            },
+            "year": "1958"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007742d"
+            },
+            "all_len": 275,
+            "all_num": {
+                "$numberInt": "14"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "37541"
+            },
+            "length0": 0,
+            "length1": 275,
+            "rank1": {
+                "$numberInt": "5"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "4"
+            },
+            "rank4": {
+                "$numberInt": "5"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "14"
+            },
+            "view_num": {
+                "$numberInt": "66874"
+            },
+            "year": "1959"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007742e"
+            },
+            "all_len": 207,
+            "all_num": {
+                "$numberInt": "17"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "88821"
+            },
+            "length0": 0,
+            "length1": 207,
+            "rank1": {
+                "$numberInt": "8"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "5"
+            },
+            "rank4": {
+                "$numberInt": "4"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "17"
+            },
+            "view_num": {
+                "$numberInt": "165229"
+            },
+            "year": "1960"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007742f"
+            },
+            "all_len": 187,
+            "all_num": {
+                "$numberInt": "5"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "285320"
+            },
+            "length0": 0,
+            "length1": 187,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "3"
+            },
+            "rank4": {
+                "$numberInt": "1"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "5"
+            },
+            "view_num": {
+                "$numberInt": "499226"
+            },
+            "year": "1961"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077430"
+            },
+            "all_len": 108,
+            "all_num": {
+                "$numberInt": "5"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "84524"
+            },
+            "length0": 0,
+            "length1": 108,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "2"
+            },
+            "rank4": {
+                "$numberInt": "2"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "5"
+            },
+            "view_num": {
+                "$numberInt": "153682"
+            },
+            "year": "1962"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077431"
+            },
+            "all_len": 198,
+            "all_num": {
+                "$numberInt": "5"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "13182"
+            },
+            "length0": 0,
+            "length1": 198,
+            "rank1": {
+                "$numberInt": "0"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "5"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "5"
+            },
+            "view_num": {
+                "$numberInt": "23831"
+            },
+            "year": "1963"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077432"
+            },
+            "all_len": 114,
+            "all_num": {
+                "$numberInt": "7"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "19203"
+            },
+            "length0": 0,
+            "length1": 114,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "6"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "7"
+            },
+            "view_num": {
+                "$numberInt": "36726"
+            },
+            "year": "1964"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077433"
+            },
+            "all_len": 217,
+            "all_num": {
+                "$numberInt": "12"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "7524"
+            },
+            "length0": 0,
+            "length1": 217,
+            "rank1": {
+                "$numberInt": "8"
+            },
+            "rank2": {
+                "$numberInt": "1"
+            },
+            "rank3": {
+                "$numberInt": "3"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "12"
+            },
+            "view_num": {
+                "$numberInt": "15876"
+            },
+            "year": "1965"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077434"
+            },
+            "all_len": 5,
+            "all_num": {
+                "$numberInt": "1"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 5,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "1"
+            },
+            "view_num": {
+                "$numberInt": "2"
+            },
+            "year": "1966"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077435"
+            },
+            "all_len": 45,
+            "all_num": {
+                "$numberInt": "3"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "77"
+            },
+            "length0": 0,
+            "length1": 45,
+            "rank1": {
+                "$numberInt": "2"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "1"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "3"
+            },
+            "view_num": {
+                "$numberInt": "108"
+            },
+            "year": "1972"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077436"
+            },
+            "all_len": 90,
+            "all_num": {
+                "$numberInt": "3"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "329"
+            },
+            "length0": 0,
+            "length1": 90,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "2"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "3"
+            },
+            "view_num": {
+                "$numberInt": "526"
+            },
+            "year": "1973"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077437"
+            },
+            "all_len": 50,
+            "all_num": {
+                "$numberInt": "2"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 50,
+            "rank1": {
+                "$numberInt": "2"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "2"
+            },
+            "view_num": {
+                "$numberInt": "46"
+            },
+            "year": "1974"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077438"
+            },
+            "all_len": 115,
+            "all_num": {
+                "$numberInt": "4"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "0"
+            },
+            "length0": 0,
+            "length1": 115,
+            "rank1": {
+                "$numberInt": "4"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "4"
+            },
+            "view_num": {
+                "$numberInt": "10"
+            },
+            "year": "1975"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077439"
+            },
+            "all_len": 126,
+            "all_num": {
+                "$numberInt": "4"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "106"
+            },
+            "length0": 0,
+            "length1": 126,
+            "rank1": {
+                "$numberInt": "3"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "1"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "4"
+            },
+            "view_num": {
+                "$numberInt": "204"
+            },
+            "year": "1976"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007743a"
+            },
+            "all_len": 128,
+            "all_num": {
+                "$numberInt": "5"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "226"
+            },
+            "length0": 0,
+            "length1": 128,
+            "rank1": {
+                "$numberInt": "3"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "2"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "5"
+            },
+            "view_num": {
+                "$numberInt": "358"
+            },
+            "year": "1977"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007743b"
+            },
+            "all_len": 138,
+            "all_num": {
+                "$numberInt": "8"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "3017"
+            },
+            "length0": 0,
+            "length1": 138,
+            "rank1": {
+                "$numberInt": "2"
+            },
+            "rank2": {
+                "$numberInt": "1"
+            },
+            "rank3": {
+                "$numberInt": "4"
+            },
+            "rank4": {
+                "$numberInt": "1"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "8"
+            },
+            "view_num": {
+                "$numberInt": "4518"
+            },
+            "year": "1978"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007743c"
+            },
+            "all_len": 564,
+            "all_num": {
+                "$numberInt": "11"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "231211"
+            },
+            "length0": 350,
+            "length1": 214,
+            "rank1": {
+                "$numberInt": "0"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "5"
+            },
+            "rank4": {
+                "$numberInt": "6"
+            },
+            "t0_num": {
+                "$numberInt": "1"
+            },
+            "t1_num": {
+                "$numberInt": "10"
+            },
+            "view_num": {
+                "$numberInt": "420157"
+            },
+            "year": "1979"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007743d"
+            },
+            "all_len": 556,
+            "all_num": {
+                "$numberInt": "29"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "274782"
+            },
+            "length0": 0,
+            "length1": 556,
+            "rank1": {
+                "$numberInt": "3"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "8"
+            },
+            "rank4": {
+                "$numberInt": "18"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "29"
+            },
+            "view_num": {
+                "$numberInt": "541792"
+            },
+            "year": "1980"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007743e"
+            },
+            "all_len": 335,
+            "all_num": {
+                "$numberInt": "14"
+            },
+            "co_num": {
+                "$numberInt": "1"
+            },
+            "com_num": {
+                "$numberInt": "201866"
+            },
+            "length0": 0,
+            "length1": 335,
+            "rank1": {
+                "$numberInt": "3"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "3"
+            },
+            "rank4": {
+                "$numberInt": "8"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "14"
+            },
+            "view_num": {
+                "$numberInt": "384795"
+            },
+            "year": "1981"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007743f"
+            },
+            "all_len": 232,
+            "all_num": {
+                "$numberInt": "14"
+            },
+            "co_num": {
+                "$numberInt": "1"
+            },
+            "com_num": {
+                "$numberInt": "61713"
+            },
+            "length0": 0,
+            "length1": 232,
+            "rank1": {
+                "$numberInt": "1"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "7"
+            },
+            "rank4": {
+                "$numberInt": "6"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "14"
+            },
+            "view_num": {
+                "$numberInt": "123148"
+            },
+            "year": "1982"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077440"
+            },
+            "all_len": 309,
+            "all_num": {
+                "$numberInt": "17"
+            },
+            "co_num": {
+                "$numberInt": "1"
+            },
+            "com_num": {
+                "$numberInt": "190274"
+            },
+            "length0": 0,
+            "length1": 309,
+            "rank1": {
+                "$numberInt": "4"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "8"
+            },
+            "rank4": {
+                "$numberInt": "5"
+            },
+            "t0_num": {
+                "$numberInt": "0"
+            },
+            "t1_num": {
+                "$numberInt": "17"
+            },
+            "view_num": {
+                "$numberInt": "310948"
+            },
+            "year": "1983"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077441"
+            },
+            "all_len": 431,
+            "all_num": {
+                "$numberInt": "21"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "92178"
+            },
+            "length0": 140,
+            "length1": 291,
+            "rank1": {
+                "$numberInt": "12"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "2"
+            },
+            "rank4": {
+                "$numberInt": "7"
+            },
+            "t0_num": {
+                "$numberInt": "2"
+            },
+            "t1_num": {
+                "$numberInt": "19"
+            },
+            "view_num": {
+                "$numberInt": "155589"
+            },
+            "year": "1984"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077442"
+            },
+            "all_len": 767,
+            "all_num": {
+                "$numberInt": "21"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "26676"
+            },
+            "length0": 150,
+            "length1": 617,
+            "rank1": {
+                "$numberInt": "8"
+            },
+            "rank2": {
+                "$numberInt": "1"
+            },
+            "rank3": {
+                "$numberInt": "8"
+            },
+            "rank4": {
+                "$numberInt": "4"
+            },
+            "t0_num": {
+                "$numberInt": "1"
+            },
+            "t1_num": {
+                "$numberInt": "20"
+            },
+            "view_num": {
+                "$numberInt": "47495"
+            },
+            "year": "1985"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077443"
+            },
+            "all_len": 292,
+            "all_num": {
+                "$numberInt": "18"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "120794"
+            },
+            "length0": 130,
+            "length1": 162,
+            "rank1": {
+                "$numberInt": "10"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "2"
+            },
+            "rank4": {
+                "$numberInt": "6"
+            },
+            "t0_num": {
+                "$numberInt": "1"
+            },
+            "t1_num": {
+                "$numberInt": "17"
+            },
+            "view_num": {
+                "$numberInt": "199973"
+            },
+            "year": "1986"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077444"
+            },
+            "all_len": 638,
+            "all_num": {
+                "$numberInt": "32"
+            },
+            "co_num": {
+                "$numberInt": "1"
+            },
+            "com_num": {
+                "$numberInt": "66585"
+            },
+            "length0": 286,
+            "length1": 352,
+            "rank1": {
+                "$numberInt": "21"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "7"
+            },
+            "rank4": {
+                "$numberInt": "4"
+            },
+            "t0_num": {
+                "$numberInt": "2"
+            },
+            "t1_num": {
+                "$numberInt": "30"
+            },
+            "view_num": {
+                "$numberInt": "108158"
+            },
+            "year": "1987"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077445"
+            },
+            "all_len": 334,
+            "all_num": {
+                "$numberInt": "36"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "35071"
+            },
+            "length0": 50,
+            "length1": 284,
+            "rank1": {
+                "$numberInt": "21"
+            },
+            "rank2": {
+                "$numberInt": "1"
+            },
+            "rank3": {
+                "$numberInt": "8"
+            },
+            "rank4": {
+                "$numberInt": "6"
+            },
+            "t0_num": {
+                "$numberInt": "1"
+            },
+            "t1_num": {
+                "$numberInt": "35"
+            },
+            "view_num": {
+                "$numberInt": "51835"
+            },
+            "year": "1988"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077446"
+            },
+            "all_len": 943.5,
+            "all_num": {
+                "$numberInt": "32"
+            },
+            "co_num": {
+                "$numberInt": "1"
+            },
+            "com_num": {
+                "$numberInt": "111349"
+            },
+            "length0": 476,
+            "length1": 467.5,
+            "rank1": {
+                "$numberInt": "19"
+            },
+            "rank2": {
+                "$numberInt": "1"
+            },
+            "rank3": {
+                "$numberInt": "6"
+            },
+            "rank4": {
+                "$numberInt": "6"
+            },
+            "t0_num": {
+                "$numberInt": "2"
+            },
+            "t1_num": {
+                "$numberInt": "30"
+            },
+            "view_num": {
+                "$numberInt": "176162"
+            },
+            "year": "1989"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077447"
+            },
+            "all_len": 344,
+            "all_num": {
+                "$numberInt": "19"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "41724"
+            },
+            "length0": 180,
+            "length1": 164,
+            "rank1": {
+                "$numberInt": "8"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "7"
+            },
+            "rank4": {
+                "$numberInt": "4"
+            },
+            "t0_num": {
+                "$numberInt": "1"
+            },
+            "t1_num": {
+                "$numberInt": "18"
+            },
+            "view_num": {
+                "$numberInt": "67642"
+            },
+            "year": "1990"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077448"
+            },
+            "all_len": 878,
+            "all_num": {
+                "$numberInt": "33"
+            },
+            "co_num": {
+                "$numberInt": "1"
+            },
+            "com_num": {
+                "$numberInt": "50236"
+            },
+            "length0": 515,
+            "length1": 363,
+            "rank1": {
+                "$numberInt": "26"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "3"
+            },
+            "rank4": {
+                "$numberInt": "4"
+            },
+            "t0_num": {
+                "$numberInt": "3"
+            },
+            "t1_num": {
+                "$numberInt": "30"
+            },
+            "view_num": {
+                "$numberInt": "65538"
+            },
+            "year": "1991"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077449"
+            },
+            "all_len": 1049,
+            "all_num": {
+                "$numberInt": "29"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "40975"
+            },
+            "length0": 700,
+            "length1": 349,
+            "rank1": {
+                "$numberInt": "13"
+            },
+            "rank2": {
+                "$numberInt": "1"
+            },
+            "rank3": {
+                "$numberInt": "7"
+            },
+            "rank4": {
+                "$numberInt": "8"
+            },
+            "t0_num": {
+                "$numberInt": "2"
+            },
+            "t1_num": {
+                "$numberInt": "27"
+            },
+            "view_num": {
+                "$numberInt": "58231"
+            },
+            "year": "1992"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007744a"
+            },
+            "all_len": 956,
+            "all_num": {
+                "$numberInt": "17"
+            },
+            "co_num": {
+                "$numberInt": "1"
+            },
+            "com_num": {
+                "$numberInt": "31037"
+            },
+            "length0": 802,
+            "length1": 154,
+            "rank1": {
+                "$numberInt": "11"
+            },
+            "rank2": {
+                "$numberInt": "1"
+            },
+            "rank3": {
+                "$numberInt": "5"
+            },
+            "rank4": {
+                "$numberInt": "0"
+            },
+            "t0_num": {
+                "$numberInt": "4"
+            },
+            "t1_num": {
+                "$numberInt": "13"
+            },
+            "view_num": {
+                "$numberInt": "2129"
+            },
+            "year": "1993"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007744b"
+            },
+            "all_len": 753,
+            "all_num": {
+                "$numberInt": "19"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "22642"
+            },
+            "length0": 566,
+            "length1": 187,
+            "rank1": {
+                "$numberInt": "15"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "0"
+            },
+            "rank4": {
+                "$numberInt": "4"
+            },
+            "t0_num": {
+                "$numberInt": "3"
+            },
+            "t1_num": {
+                "$numberInt": "16"
+            },
+            "view_num": {
+                "$numberInt": "28248"
+            },
+            "year": "1994"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007744c"
+            },
+            "all_len": 3798,
+            "all_num": {
+                "$numberInt": "27"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "72583"
+            },
+            "length0": 3604,
+            "length1": 194,
+            "rank1": {
+                "$numberInt": "20"
+            },
+            "rank2": {
+                "$numberInt": "1"
+            },
+            "rank3": {
+                "$numberInt": "4"
+            },
+            "rank4": {
+                "$numberInt": "2"
+            },
+            "t0_num": {
+                "$numberInt": "8"
+            },
+            "t1_num": {
+                "$numberInt": "19"
+            },
+            "view_num": {
+                "$numberInt": "125568"
+            },
+            "year": "1995"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007744d"
+            },
+            "all_len": 2081,
+            "all_num": {
+                "$numberInt": "25"
+            },
+            "co_num": {
+                "$numberInt": "3"
+            },
+            "com_num": {
+                "$numberInt": "31852"
+            },
+            "length0": 1716,
+            "length1": 365,
+            "rank1": {
+                "$numberInt": "20"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "3"
+            },
+            "rank4": {
+                "$numberInt": "2"
+            },
+            "t0_num": {
+                "$numberInt": "6"
+            },
+            "t1_num": {
+                "$numberInt": "19"
+            },
+            "view_num": {
+                "$numberInt": "44239"
+            },
+            "year": "1996"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007744e"
+            },
+            "all_len": 2980.10009765625,
+            "all_num": {
+                "$numberInt": "24"
+            },
+            "co_num": {
+                "$numberInt": "1"
+            },
+            "com_num": {
+                "$numberInt": "12778"
+            },
+            "length0": 2823,
+            "length1": 157.100006103516,
+            "rank1": {
+                "$numberInt": "20"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "2"
+            },
+            "rank4": {
+                "$numberInt": "2"
+            },
+            "t0_num": {
+                "$numberInt": "7"
+            },
+            "t1_num": {
+                "$numberInt": "17"
+            },
+            "view_num": {
+                "$numberInt": "18156"
+            },
+            "year": "1997"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007744f"
+            },
+            "all_len": 6860,
+            "all_num": {
+                "$numberInt": "28"
+            },
+            "co_num": {
+                "$numberInt": "2"
+            },
+            "com_num": {
+                "$numberInt": "30395"
+            },
+            "length0": 6562,
+            "length1": 298,
+            "rank1": {
+                "$numberInt": "21"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "3"
+            },
+            "rank4": {
+                "$numberInt": "4"
+            },
+            "t0_num": {
+                "$numberInt": "14"
+            },
+            "t1_num": {
+                "$numberInt": "14"
+            },
+            "view_num": {
+                "$numberInt": "42397"
+            },
+            "year": "1998"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077450"
+            },
+            "all_len": 6861,
+            "all_num": {
+                "$numberInt": "22"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "195601"
+            },
+            "length0": 6651,
+            "length1": 210,
+            "rank1": {
+                "$numberInt": "12"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "4"
+            },
+            "rank4": {
+                "$numberInt": "6"
+            },
+            "t0_num": {
+                "$numberInt": "16"
+            },
+            "t1_num": {
+                "$numberInt": "6"
+            },
+            "view_num": {
+                "$numberInt": "388534"
+            },
+            "year": "1999"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077451"
+            },
+            "all_len": 6280,
+            "all_num": {
+                "$numberInt": "14"
+            },
+            "co_num": {
+                "$numberInt": "1"
+            },
+            "com_num": {
+                "$numberInt": "45183"
+            },
+            "length0": 6265,
+            "length1": 15,
+            "rank1": {
+                "$numberInt": "5"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "3"
+            },
+            "rank4": {
+                "$numberInt": "6"
+            },
+            "t0_num": {
+                "$numberInt": "11"
+            },
+            "t1_num": {
+                "$numberInt": "3"
+            },
+            "view_num": {
+                "$numberInt": "55041"
+            },
+            "year": "2000"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077452"
+            },
+            "all_len": 3599,
+            "all_num": {
+                "$numberInt": "16"
+            },
+            "co_num": {
+                "$numberInt": "4"
+            },
+            "com_num": {
+                "$numberInt": "17410"
+            },
+            "length0": 3459,
+            "length1": 140,
+            "rank1": {
+                "$numberInt": "10"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "3"
+            },
+            "rank4": {
+                "$numberInt": "3"
+            },
+            "t0_num": {
+                "$numberInt": "7"
+            },
+            "t1_num": {
+                "$numberInt": "9"
+            },
+            "view_num": {
+                "$numberInt": "21898"
+            },
+            "year": "2001"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077453"
+            },
+            "all_len": 9073,
+            "all_num": {
+                "$numberInt": "19"
+            },
+            "co_num": {
+                "$numberInt": "1"
+            },
+            "com_num": {
+                "$numberInt": "18340"
+            },
+            "length0": 9040,
+            "length1": 33,
+            "rank1": {
+                "$numberInt": "10"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "3"
+            },
+            "rank4": {
+                "$numberInt": "6"
+            },
+            "t0_num": {
+                "$numberInt": "13"
+            },
+            "t1_num": {
+                "$numberInt": "6"
+            },
+            "view_num": {
+                "$numberInt": "22671"
+            },
+            "year": "2002"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077454"
+            },
+            "all_len": 8896,
+            "all_num": {
+                "$numberInt": "27"
+            },
+            "co_num": {
+                "$numberInt": "4"
+            },
+            "com_num": {
+                "$numberInt": "96276"
+            },
+            "length0": 8736,
+            "length1": 160,
+            "rank1": {
+                "$numberInt": "12"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "3"
+            },
+            "rank4": {
+                "$numberInt": "12"
+            },
+            "t0_num": {
+                "$numberInt": "13"
+            },
+            "t1_num": {
+                "$numberInt": "14"
+            },
+            "view_num": {
+                "$numberInt": "115166"
+            },
+            "year": "2003"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077455"
+            },
+            "all_len": 6193,
+            "all_num": {
+                "$numberInt": "28"
+            },
+            "co_num": {
+                "$numberInt": "3"
+            },
+            "com_num": {
+                "$numberInt": "32814"
+            },
+            "length0": 5797,
+            "length1": 396,
+            "rank1": {
+                "$numberInt": "16"
+            },
+            "rank2": {
+                "$numberInt": "0"
+            },
+            "rank3": {
+                "$numberInt": "4"
+            },
+            "rank4": {
+                "$numberInt": "8"
+            },
+            "t0_num": {
+                "$numberInt": "10"
+            },
+            "t1_num": {
+                "$numberInt": "18"
+            },
+            "view_num": {
+                "$numberInt": "39958"
+            },
+            "year": "2004"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077456"
+            },
+            "all_len": 25952,
+            "all_num": {
+                "$numberInt": "52"
+            },
+            "co_num": {
+                "$numberInt": "4"
+            },
+            "com_num": {
+                "$numberInt": "99413"
+            },
+            "length0": 25545,
+            "length1": 407,
+            "rank1": {
+                "$numberInt": "28"
+            },
+            "rank2": {
+                "$numberInt": "2"
+            },
+            "rank3": {
+                "$numberInt": "11"
+            },
+            "rank4": {
+                "$numberInt": "11"
+            },
+            "t0_num": {
+                "$numberInt": "26"
+            },
+            "t1_num": {
+                "$numberInt": "26"
+            },
+            "view_num": {
+                "$numberInt": "119616"
+            },
+            "year": "2005"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077457"
+            },
+            "all_len": 21636,
+            "all_num": {
+                "$numberInt": "55"
+            },
+            "co_num": {
+                "$numberInt": "0"
+            },
+            "com_num": {
+                "$numberInt": "113027"
+            },
+            "length0": 21036,
+            "length1": 600,
+            "rank1": {
+                "$numberInt": "29"
+            },
+            "rank2": {
+                "$numberInt": "1"
+            },
+            "rank3": {
+                "$numberInt": "13"
+            },
+            "rank4": {
+                "$numberInt": "12"
+            },
+            "t0_num": {
+                "$numberInt": "34"
+            },
+            "t1_num": {
+                "$numberInt": "21"
+            },
+            "view_num": {
+                "$numberInt": "129487"
+            },
+            "year": "2006"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077458"
+            },
+            "all_len": 28777,
+            "all_num": {
+                "$numberInt": "79"
+            },
+            "co_num": {
+                "$numberInt": "4"
+            },
+            "com_num": {
+                "$numberInt": "149029"
+            },
+            "length0": 28213,
+            "length1": 564,
+            "rank1": {
+                "$numberInt": "31"
+            },
+            "rank2": {
+                "$numberInt": "3"
+            },
+            "rank3": {
+                "$numberInt": "20"
+            },
+            "rank4": {
+                "$numberInt": "25"
+            },
+            "t0_num": {
+                "$numberInt": "39"
+            },
+            "t1_num": {
+                "$numberInt": "40"
+            },
+            "view_num": {
+                "$numberInt": "176751"
+            },
+            "year": "2007"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077459"
+            },
+            "all_len": 38195,
+            "all_num": {
+                "$numberInt": "105"
+            },
+            "co_num": {
+                "$numberInt": "2"
+            },
+            "com_num": {
+                "$numberInt": "146192"
+            },
+            "length0": 37092,
+            "length1": 1103,
+            "rank1": {
+                "$numberInt": "47"
+            },
+            "rank2": {
+                "$numberInt": "4"
+            },
+            "rank3": {
+                "$numberInt": "29"
+            },
+            "rank4": {
+                "$numberInt": "25"
+            },
+            "t0_num": {
+                "$numberInt": "50"
+            },
+            "t1_num": {
+                "$numberInt": "55"
+            },
+            "view_num": {
+                "$numberInt": "213662"
+            },
+            "year": "2008"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007745a"
+            },
+            "all_len": 53074.5703125,
+            "all_num": {
+                "$numberInt": "148"
+            },
+            "co_num": {
+                "$numberInt": "3"
+            },
+            "com_num": {
+                "$numberInt": "324815"
+            },
+            "length0": 51660,
+            "length1": 1414.57006835938,
+            "rank1": {
+                "$numberInt": "83"
+            },
+            "rank2": {
+                "$numberInt": "8"
+            },
+            "rank3": {
+                "$numberInt": "33"
+            },
+            "rank4": {
+                "$numberInt": "24"
+            },
+            "t0_num": {
+                "$numberInt": "59"
+            },
+            "t1_num": {
+                "$numberInt": "89"
+            },
+            "view_num": {
+                "$numberInt": "452854"
+            },
+            "year": "2009"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007745b"
+            },
+            "all_len": 69167,
+            "all_num": {
+                "$numberInt": "211"
+            },
+            "co_num": {
+                "$numberInt": "1"
+            },
+            "com_num": {
+                "$numberInt": "233273"
+            },
+            "length0": 66911,
+            "length1": 2256,
+            "rank1": {
+                "$numberInt": "96"
+            },
+            "rank2": {
+                "$numberInt": "24"
+            },
+            "rank3": {
+                "$numberInt": "67"
+            },
+            "rank4": {
+                "$numberInt": "24"
+            },
+            "t0_num": {
+                "$numberInt": "73"
+            },
+            "t1_num": {
+                "$numberInt": "138"
+            },
+            "view_num": {
+                "$numberInt": "308934"
+            },
+            "year": "2010"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007745c"
+            },
+            "all_len": 52311.5,
+            "all_num": {
+                "$numberInt": "221"
+            },
+            "co_num": {
+                "$numberInt": "8"
+            },
+            "com_num": {
+                "$numberInt": "280028"
+            },
+            "length0": 49123,
+            "length1": 3188.5,
+            "rank1": {
+                "$numberInt": "130"
+            },
+            "rank2": {
+                "$numberInt": "10"
+            },
+            "rank3": {
+                "$numberInt": "53"
+            },
+            "rank4": {
+                "$numberInt": "28"
+            },
+            "t0_num": {
+                "$numberInt": "66"
+            },
+            "t1_num": {
+                "$numberInt": "155"
+            },
+            "view_num": {
+                "$numberInt": "365185"
+            },
+            "year": "2011"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007745d"
+            },
+            "all_len": 56500,
+            "all_num": {
+                "$numberInt": "253"
+            },
+            "co_num": {
+                "$numberInt": "6"
+            },
+            "com_num": {
+                "$numberInt": "264789"
+            },
+            "length0": 53443,
+            "length1": 3057,
+            "rank1": {
+                "$numberInt": "149"
+            },
+            "rank2": {
+                "$numberInt": "18"
+            },
+            "rank3": {
+                "$numberInt": "56"
+            },
+            "rank4": {
+                "$numberInt": "30"
+            },
+            "t0_num": {
+                "$numberInt": "74"
+            },
+            "t1_num": {
+                "$numberInt": "179"
+            },
+            "view_num": {
+                "$numberInt": "384767"
+            },
+            "year": "2012"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007745e"
+            },
+            "all_len": 55378,
+            "all_num": {
+                "$numberInt": "321"
+            },
+            "co_num": {
+                "$numberInt": "6"
+            },
+            "com_num": {
+                "$numberInt": "182540"
+            },
+            "length0": 51495,
+            "length1": 3883,
+            "rank1": {
+                "$numberInt": "219"
+            },
+            "rank2": {
+                "$numberInt": "17"
+            },
+            "rank3": {
+                "$numberInt": "63"
+            },
+            "rank4": {
+                "$numberInt": "22"
+            },
+            "t0_num": {
+                "$numberInt": "89"
+            },
+            "t1_num": {
+                "$numberInt": "232"
+            },
+            "view_num": {
+                "$numberInt": "243056"
+            },
+            "year": "2013"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c209290443007745f"
+            },
+            "all_len": 51161.3984375,
+            "all_num": {
+                "$numberInt": "390"
+            },
+            "co_num": {
+                "$numberInt": "11"
+            },
+            "com_num": {
+                "$numberInt": "458369"
+            },
+            "length0": 46409,
+            "length1": 4752.39990234375,
+            "rank1": {
+                "$numberInt": "283"
+            },
+            "rank2": {
+                "$numberInt": "22"
+            },
+            "rank3": {
+                "$numberInt": "54"
+            },
+            "rank4": {
+                "$numberInt": "31"
+            },
+            "t0_num": {
+                "$numberInt": "92"
+            },
+            "t1_num": {
+                "$numberInt": "298"
+            },
+            "view_num": {
+                "$numberInt": "672835"
+            },
+            "year": "2014"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077460"
+            },
+            "all_len": 47426,
+            "all_num": {
+                "$numberInt": "430"
+            },
+            "co_num": {
+                "$numberInt": "11"
+            },
+            "com_num": {
+                "$numberInt": "772324"
+            },
+            "length0": 41528,
+            "length1": 5898,
+            "rank1": {
+                "$numberInt": "314"
+            },
+            "rank2": {
+                "$numberInt": "35"
+            },
+            "rank3": {
+                "$numberInt": "51"
+            },
+            "rank4": {
+                "$numberInt": "30"
+            },
+            "t0_num": {
+                "$numberInt": "100"
+            },
+            "t1_num": {
+                "$numberInt": "330"
+            },
+            "view_num": {
+                "$numberInt": "1225787"
+            },
+            "year": "2015"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077461"
+            },
+            "all_len": 66226.7109375,
+            "all_num": {
+                "$numberInt": "453"
+            },
+            "co_num": {
+                "$numberInt": "17"
+            },
+            "com_num": {
+                "$numberInt": "1161214"
+            },
+            "length0": 60504,
+            "length1": 5722.7099609375,
+            "rank1": {
+                "$numberInt": "354"
+            },
+            "rank2": {
+                "$numberInt": "18"
+            },
+            "rank3": {
+                "$numberInt": "54"
+            },
+            "rank4": {
+                "$numberInt": "27"
+            },
+            "t0_num": {
+                "$numberInt": "156"
+            },
+            "t1_num": {
+                "$numberInt": "297"
+            },
+            "view_num": {
+                "$numberInt": "1949608"
+            },
+            "year": "2016"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077462"
+            },
+            "all_len": 76103,
+            "all_num": {
+                "$numberInt": "471"
+            },
+            "co_num": {
+                "$numberInt": "23"
+            },
+            "com_num": {
+                "$numberInt": "732096"
+            },
+            "length0": 70886.5,
+            "length1": 5216.5,
+            "rank1": {
+                "$numberInt": "387"
+            },
+            "rank2": {
+                "$numberInt": "15"
+            },
+            "rank3": {
+                "$numberInt": "48"
+            },
+            "rank4": {
+                "$numberInt": "21"
+            },
+            "t0_num": {
+                "$numberInt": "179"
+            },
+            "t1_num": {
+                "$numberInt": "292"
+            },
+            "view_num": {
+                "$numberInt": "1093849"
+            },
+            "year": "2017"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077463"
+            },
+            "all_len": 65972,
+            "all_num": {
+                "$numberInt": "364"
+            },
+            "co_num": {
+                "$numberInt": "29"
+            },
+            "com_num": {
+                "$numberInt": "756495"
+            },
+            "length0": 60895,
+            "length1": 5077,
+            "rank1": {
+                "$numberInt": "275"
+            },
+            "rank2": {
+                "$numberInt": "14"
+            },
+            "rank3": {
+                "$numberInt": "46"
+            },
+            "rank4": {
+                "$numberInt": "29"
+            },
+            "t0_num": {
+                "$numberInt": "170"
+            },
+            "t1_num": {
+                "$numberInt": "194"
+            },
+            "view_num": {
+                "$numberInt": "1229862"
+            },
+            "year": "2018"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077464"
+            },
+            "all_len": 49701,
+            "all_num": {
+                "$numberInt": "337"
+            },
+            "co_num": {
+                "$numberInt": "28"
+            },
+            "com_num": {
+                "$numberInt": "2754548"
+            },
+            "length0": 44283,
+            "length1": 5418,
+            "rank1": {
+                "$numberInt": "272"
+            },
+            "rank2": {
+                "$numberInt": "12"
+            },
+            "rank3": {
+                "$numberInt": "28"
+            },
+            "rank4": {
+                "$numberInt": "25"
+            },
+            "t0_num": {
+                "$numberInt": "136"
+            },
+            "t1_num": {
+                "$numberInt": "201"
+            },
+            "view_num": {
+                "$numberInt": "3929595"
+            },
+            "year": "2019"
+        },
+        {
+            "_id": {
+                "$oid": "5f22335c2092904430077465"
+            },
+            "all_len": 24780.5,
+            "all_num": {
+                "$numberInt": "275"
+            },
+            "co_num": {
+                "$numberInt": "12"
+            },
+            "com_num": {
+                "$numberInt": "133501"
+            },
+            "length0": 21466,
+            "length1": 3314.5,
+            "rank1": {
+                "$numberInt": "249"
+            },
+            "rank2": {
+                "$numberInt": "3"
+            },
+            "rank3": {
+                "$numberInt": "10"
+            },
+            "rank4": {
+                "$numberInt": "13"
+            },
+            "t0_num": {
+                "$numberInt": "79"
+            },
+            "t1_num": {
+                "$numberInt": "196"
+            },
+            "view_num": {
+                "$numberInt": "141192"
+            },
+            "year": "2020"
+        }
+    ]
+}
