@@ -27,7 +27,7 @@
         <dependency>
             <groupId>org.apache.thrift</groupId>
             <artifactId>libthrift</artifactId>
-            <version>0.13.0</version>
+            <version>0.14.0</version>
         </dependency>
         <!-- 3. 调用|依赖 爬虫服务API -->
         <dependency>
